@@ -1,5 +1,5 @@
-# Clon de buscador de google
-## CDN bootsrap
+# Clon de Google (HTML, CSS)
+## CDN bootsrap 
 
 ## ¿Qué es bootstrap?
 
@@ -13,7 +13,7 @@ Cuando nosotras hacemos css, tenemos qué tener acceso a el HTML donde se van a 
 
 Debemos utilizar un selector (elemento, clase, id), por lo tanto, para usar bootstrap se van a poder utilizar estos mismos selectores, sólo que ya van a estar predefinidos.
 
-## Instalación
+## Instalación💻 
 
 Para instalar bootstrap, lo que realemnte vamos a hacer es lo mismo que se hace con todos los recursos del mismo tipo, por ejemplo:
 
@@ -44,4 +44,33 @@ Es importante entender que como es un marco de trabajo va a tener sugerencias de
 Y además va a tener los elementos más comunes usados en los sitios web ya con la sugerencia de cómo estruturarlos y en donde acomodarlos.
 
 Y por último va a tener maneras de cambiar las cosas importantes extra, hablamos de colores, hablamos de box-model(padding, margin, border,content[width, heigh]), el tipo de display.
+# Clon google Tecnolochicas PRO
+
+Este proyecto fue creado durante el bootacamp Technolochicas PRO, es una página web responsiva (adptable a diversos dispositivos).
+
+El propósito de la creación de este sitio es en poner en practica el uso de herramientas como HTML5 y CSS3
+
+Incluye recursos multimedia.
+
+<a href="https://jovial-zuccutto-f60209.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
+# Captura de pantalla
+
+Preview:
+![Alt text](assets/interfaz_buscador.jpg)
+
+# Tecnologías
+
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+## 📬 Contacto
+
+Si estás interesad@ en compartir o conectar para algún proyecto u oportunidad laboral, contáctame.
+
+<a href="https://www.linkedin.com/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+© 2023 RENO (Programa Technolochicas PRO)
 
